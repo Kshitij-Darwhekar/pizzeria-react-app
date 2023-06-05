@@ -28,7 +28,7 @@ Please note that this website was built for learning purposes. I followed a tuto
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/pizzario-website.git`
+1. Clone the repository: `git clone https://github.com/kshitij-darwhekar/pizzario-website.git`
 2. Navigate to the project directory: `cd pizzario-website`
 3. Install the dependencies: `npm install`
 
