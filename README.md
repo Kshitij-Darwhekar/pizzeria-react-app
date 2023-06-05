@@ -10,8 +10,8 @@ Welcome to the Pizzeria website! This is a React-based website for a fictional p
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Introduction
 
