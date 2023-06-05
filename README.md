@@ -1,6 +1,6 @@
-# Pizzario Website
+# Pizzeria Website
 
-Welcome to the Pizzario website! This is a React-based website for a fictional pizzeria, where you can explore our delicious menu, learn more about our story, and get in touch with us. 
+Welcome to the Pizzeria website! This is a React-based website for a fictional pizzeria, where you can explore our delicious menu, learn more about our story, and get in touch with us. 
 
 
 ## Table of Contents
