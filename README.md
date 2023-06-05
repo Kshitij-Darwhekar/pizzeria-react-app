@@ -39,3 +39,21 @@ To start the Pizzario website, use the following command:
 
 ```shell
 npm start
+```
+## Screenshots
+Here are some screenshots of the Pizzario website:
+
+- **Home**
+![image](https://github.com/Kshitij-Darwhekar/pizzaria.io/assets/54590658/6f99303b-ec00-4671-aa59-9d290d87f428)
+
+- **About**
+![image](https://github.com/Kshitij-Darwhekar/pizzaria.io/assets/54590658/d5ec1531-4d16-4222-9ea6-b6bc999e1311)
+
+- **Menu**
+![image](https://github.com/Kshitij-Darwhekar/pizzaria.io/assets/54590658/a5bcd951-6b46-43a6-b15b-bf5e9ea70895)
+![image](https://github.com/Kshitij-Darwhekar/pizzaria.io/assets/54590658/681de26a-9e07-4ba5-937a-b1a206cb3caf)
+
+- **Contact**
+![image](https://github.com/Kshitij-Darwhekar/pizzaria.io/assets/54590658/8ca6ae0b-8023-4638-b5d8-2f9d07147d41)
+
+
